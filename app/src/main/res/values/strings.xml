@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Navigate to New Page from Navbar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home_Menu_option">Home</string>
+    <string name="aboutus_menu_option">AboutUS</string>
+    <string name="gallery_menu_option">Gallery</string>
+    <string name="contactus_menu_option">ContactUS</string>
+    <string name="content_home_text">This is Home Page. !!</string>
+    <string name="content_main_text">This is from MainContent Page.!</string>
+    <string name="homepage_tv_secondactivity">Home Page</string>
+    <string name="contactus">Contact us</string>
+    <string name="gallery">Gallery !!</string>
+    <string name="aboutus">About us !!!</string>
+</resources>
